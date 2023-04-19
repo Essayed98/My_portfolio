@@ -2,7 +2,7 @@ import React from 'react'
 import './header.css'
 import Cv from './Cv'
 import HeaderSocials from './HeaderSocials'
-import Me from '../../assests/me.png'
+import Me from '../../assests/me3.png'
 const Header = () => {
   return (
     <header>
