@@ -18,16 +18,17 @@
 }
 
 /* 
-for animate Photo in section about me
-.about__me-image {
+for animate Photo in section about me */
+/* .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    height: 45rem;
 }
 .about__me-image:hover{
     transform: rotate(0);
-} */
+}  */
 
 .about__cards {
     display: grid;
