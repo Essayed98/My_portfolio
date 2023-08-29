@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.172a8210.css",
+    "main.js": "/static/js/main.31fc0365.js",
+    "static/media/Portfolio1.png": "/static/media/Portfolio1.2ad6ac39b733dd4b47df.png",
+    "static/media/polydoor.png": "/static/media/polydoor.ef155b84e363e74869a1.png",
+    "static/media/prestige.png": "/static/media/prestige.f263fe92dc0952c2a8ee.png",
+    "static/media/cv.pdf": "/static/media/cv.6c4e93b664ff258aa1d0.pdf",
+    "static/media/me3.png": "/static/media/me3.b45c15b83d9fea5dd433.png",
+    "index.html": "/index.html",
+    "main.172a8210.css.map": "/static/css/main.172a8210.css.map",
+    "main.31fc0365.js.map": "/static/js/main.31fc0365.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172a8210.css",
+    "static/js/main.31fc0365.js"
+  ]
+}
