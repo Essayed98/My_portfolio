@@ -15,41 +15,41 @@ const Experience = () => {
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div> <h4>HMTL</h4>
-                <small className='text-ligth'>Experienced</small></div>
+                </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>CSS </h4>
-                <small className='text-ligth'>Experienced</small>
+           
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>JAVASRIPT</h4>
-                <small className='text-ligth'>Intermediate</small>
+             
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>ANGULAR</h4>
-                <small className='text-ligth'>Intermediate</small>
+               
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
               <h4>REACTJS</h4>
-              <small className='text-ligth'>Intermediate</small>
+           
 </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
 <div>
               <h4>VueJs</h4>
-              <small className='text-ligth'>Beginner</small>
+              
 </div>
             </acticle>
           </div>
@@ -62,20 +62,20 @@ const Experience = () => {
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>NodeJs</h4>
-                <small className='text-ligth'>Intermediate</small>
+               
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>MongoDB </h4>
-                <small className='text-ligth'>Intermediate</small>
+              
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div> <h4>PHP</h4>
-              <small className='text-ligth'>Intermediate</small>
+            
               </div>
              
             </acticle>
@@ -83,20 +83,20 @@ const Experience = () => {
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
                 <h4>MySql</h4>
-                <small className='text-ligth'>Intermediate</small>
+           
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
               <div>
               <h4>Python</h4>
-              <small className='text-ligth'>Intermediate</small>
+            
               </div>
             </acticle>
             <acticle className="experience__details">
               <MdOutlineFileDownloadDone className="experience__detailsicon" />
-              <div> <h4>SPRING BOOT</h4>
-              <small className='text-ligth'>Academic</small></div>
+              <div> <h4>SPRING BOOT</h4></div>
+        
              
               
             </acticle>
