@@ -3,7 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assests/Portfolio1.png'
 import IMG2 from '../../assests/prestige.png'
 import IMG3 from '../../assests/polydoor.png'
-
+import IMG4 from '../../assests/smoky.png'
+import IMG5 from '../../assests/rcseventssport.png'
 /* Data of Portfolio */
 
 const data = [
@@ -28,6 +29,18 @@ const data = [
     Desciption :'https://www.linkedin.com/posts/essayed-ben-kram-b148b5196_prestige-parfums-paris-activity-7100414780972150784-goMw?utm_source=share&utm_medium=member_desktop',
     Demo :'https://www.prestigeparfums.com/'
   } , 
+  {
+  id :4 ,
+  Image: IMG4 ,
+  Title : 'Smoky Buns' ,
+  Demo :'https://smokybuns.com/'
+} , 
+{
+  id :5 ,
+  Image: IMG5 ,
+  Title : 'RcsEvnets & Sport' ,
+  Demo :'https://rcseventsandsports.com/'
+} , 
 ]
 
 const Portfolio = () => {

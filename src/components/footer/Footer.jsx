@@ -18,7 +18,7 @@ const Footer = () => {
         <li><a href='#contact' >Contact Us</a></li>
       </ul>
       <div className="footer footer__socials">
-        <a href="mailto:bkessayed@gmail.com" target="__blank"><AiOutlineMail /></a>
+        <a href='mailto:bkessayed@gmail.com' target="__blank"><AiOutlineMail /></a>
         <a href='https://wa.me/+21621195445' target="__blank"><AiOutlineWhatsApp /></a>
         <a href='https://www.linkedin.com/in/essayed-ben-kram-b148b5196/' target="__blank"><AiFillLinkedin /></a>
       </div>
