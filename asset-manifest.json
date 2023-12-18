@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/My_portfolio/static/css/main.b19ca1af.css",
-    "main.js": "/My_portfolio/static/js/main.f8ac1420.js",
+    "main.js": "/My_portfolio/static/js/main.c67988ab.js",
     "static/media/smoky.png": "/My_portfolio/static/media/smoky.0874604a31a6451716e7.png",
     "static/media/Portfolio1.png": "/My_portfolio/static/media/Portfolio1.2ad6ac39b733dd4b47df.png",
     "static/media/rcseventssport.png": "/My_portfolio/static/media/rcseventssport.4d4d96261908e707204d.png",
     "static/media/polydoor.png": "/My_portfolio/static/media/polydoor.ef155b84e363e74869a1.png",
+    "static/media/MOHAMED_ESSAYED_BEN_KRAM_CV.pdf": "/My_portfolio/static/media/MOHAMED_ESSAYED_BEN_KRAM_CV.a46324c3c43d2cb2bd0a.pdf",
     "static/media/prestige.png": "/My_portfolio/static/media/prestige.f263fe92dc0952c2a8ee.png",
-    "static/media/cv.pdf": "/My_portfolio/static/media/cv.6c4e93b664ff258aa1d0.pdf",
     "static/media/me3.png": "/My_portfolio/static/media/me3.b45c15b83d9fea5dd433.png",
     "index.html": "/My_portfolio/index.html",
     "main.b19ca1af.css.map": "/My_portfolio/static/css/main.b19ca1af.css.map",
-    "main.f8ac1420.js.map": "/My_portfolio/static/js/main.f8ac1420.js.map"
+    "main.c67988ab.js.map": "/My_portfolio/static/js/main.c67988ab.js.map"
   },
   "entrypoints": [
     "static/css/main.b19ca1af.css",
-    "static/js/main.f8ac1420.js"
+    "static/js/main.c67988ab.js"
   ]
 }
